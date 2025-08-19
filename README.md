@@ -6,8 +6,8 @@
 
 ### 👩‍💻 About Me
 - 🎓 Undergraduate in **Computer Science and Technology** at **Sabaragamuwa University of Sri Lanka**.  
-- 🌱 Currently exploring **MERN Stack, DevOps, and Cloud Computing**.  
-- 💡 Passionate about **Full-Stack Development, AI/ML, and innovative solutions**.  
+- 🌱 Currently exploring **DevOps and Cloud Computing**.  
+- 💡 Passionate about **DevOps, Full-Stack Development, AI/ML, and innovative solutions**.  
 - 🚀 Love solving **real-world problems** through technology.  
 - ✨ Fun fact: When I’m not coding, I enjoy **hiking & experimenting with new recipes**.  
 
