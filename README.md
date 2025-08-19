@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">Hi 👋, I'm Sajini Rathnaweera</h1>
-<h3 align="center">🚀 Computer Science Undergraduate | Passionate Full-Stack Developer | Tech Enthusiast</h3>
+<h3 align="center">🚀 Passionate Full-Stack Developer | DevOps Enthusiast | Computer Science and Technology Undergraduate</h3>
 
 ---
 
